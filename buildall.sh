@@ -23,17 +23,26 @@ case $1 in
 	--clean) cleanBuild; exit 0;;
 esac
 
-${HERE}/tools/pull-assets.sh &&
-
-printf "${bold}${GRE}\n Building MV3... \n${c0}"
-${HERE}/tools/make-mv3.sh &&
+prepareBuild() {
+  printf "${bold}${YEL}\n Cleaning Build... \n${c0}"
+  ${HERE}/tools/make-clean.sh
+  printf "${bold}${GRE}\n Downloading Lists... \n${c0}"
+  ${HERE}/tools/pull-assets.sh
+}
 
 buildChromiumMV2() {
-  printf "${bold}${GRE}\n Building MV2... \n${c0}"
+  printf "${bold}${GRE}\n Building MV2... \n${c0}" &&
   ${HERE}/tools/make-chromium.sh
 }
 case $1 in
-	--mv2) buildChromiumMV2;
+	--mv2) prepareBuild; buildChromiumMV2; exit 0;;
 esac
+
+buildChromiumMV3() {
+  printf "${bold}${GRE}\n Building MV3... \n${c0}" &&
+  ${HERE}/tools/make-mv3.sh
+}
+
+prepareBuild; buildChromiumMV2; buildChromiumMV3;
 
 exit 0
