@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin Lite",
+    "message": "Primo AdBlock Lite",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Kontrol Paneli",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "Primo AdBlock — Kontrol Paneli",
+    "description": "English: Primo AdBlock — Dashboard"
   },
   "settingsPageName": {
     "message": "Ayarlar",
@@ -164,7 +164,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "uBO Lite tespit ediliyor",
+    "message": "Primo AdBlock tespit ediliyor",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -172,7 +172,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "uBO Lite kullanımdayken sayfa bozuluyor ",
+    "message": "Primo AdBlock kullanımdayken sayfa bozuluyor ",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {

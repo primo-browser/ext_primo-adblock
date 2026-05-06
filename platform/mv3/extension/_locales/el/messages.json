@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin Lite",
+    "message": "Primo AdBlock Lite",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Πίνακας ελέγχου",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "Primo AdBlock — Πίνακας ελέγχου",
+    "description": "English: Primo AdBlock — Dashboard"
   },
   "settingsPageName": {
     "message": "Ρυθμίσεις",
@@ -164,7 +164,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Ανιχνεύει το uBO Lite",
+    "message": "Ανιχνεύει το Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -172,7 +172,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Δυσλειτουργεί όταν είναι ενεργό το uBO Lite",
+    "message": "Δυσλειτουργεί όταν είναι ενεργό το Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -284,7 +284,7 @@
     "description": "Web page title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "Το uBO Lite εμπόδισε τη φόρτωση της παρακάτω σελίδας:",
+    "message": "Το Primo AdBlock εμπόδισε τη φόρτωση της παρακάτω σελίδας:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

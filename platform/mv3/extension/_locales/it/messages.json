@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin Lite",
+    "message": "Primo AdBlock Lite",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Cruscotto",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "Primo AdBlock — Cruscotto",
+    "description": "English: Primo AdBlock — Dashboard"
   },
   "settingsPageName": {
     "message": "Impostazioni",
@@ -164,7 +164,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Rileva uBO Lite",
+    "message": "Rileva Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -172,7 +172,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Malfunzionamenti quando uBO Lite è abilitato",
+    "message": "Malfunzionamenti quando Primo AdBlock è abilitato",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -284,7 +284,7 @@
     "description": "Web page title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite ha impedito alla seguente pagina di caricarsi:",
+    "message": "Primo AdBlock ha impedito alla seguente pagina di caricarsi:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

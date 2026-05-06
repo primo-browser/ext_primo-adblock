@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin Lite",
+    "message": "Primo AdBlock Lite",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Vezérlőpult",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "Primo AdBlock — Vezérlőpult",
+    "description": "English: Primo AdBlock — Dashboard"
   },
   "settingsPageName": {
     "message": "Beállítások",
@@ -164,7 +164,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Észleli az uBO Lite-ot",
+    "message": "Észleli az Primo AdBlock-ot",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -172,7 +172,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Hibásan működik, ha a uBO Lite be van kapcsolva",
+    "message": "Hibásan működik, ha a Primo AdBlock be van kapcsolva",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -284,7 +284,7 @@
     "description": "Web page title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "A uBO Lite megakadályozta a következő oldal betöltését:",
+    "message": "A Primo AdBlock megakadályozta a következő oldal betöltését:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

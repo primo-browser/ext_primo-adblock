@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin Lite",
+    "message": "Primo AdBlock Lite",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — ড্যাশবোর্ড",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "Primo AdBlock — ড্যাশবোর্ড",
+    "description": "English: Primo AdBlock — Dashboard"
   },
   "settingsPageName": {
     "message": "সেটিংস",

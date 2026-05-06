@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin Lite",
+    "message": "Primo AdBlock Lite",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Hallintapaneeli",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "Primo AdBlock — Hallintapaneeli",
+    "description": "English: Primo AdBlock — Dashboard"
   },
   "settingsPageName": {
     "message": "Asetukset",
@@ -164,7 +164,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Tunnistaa uBO Liten",
+    "message": "Tunnistaa Primo AdBlockn",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -172,7 +172,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Ei toimi oikein uBO Liten ollessa käytössä",
+    "message": "Ei toimi oikein Primo AdBlockn ollessa käytössä",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -284,7 +284,7 @@
     "description": "Web page title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite on estänyt seuraavan sivun latauksen:",
+    "message": "Primo AdBlock on estänyt seuraavan sivun latauksen:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

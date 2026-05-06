@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin Lite",
+    "message": "Primo AdBlock Lite",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — Bảng điều khiển",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "Primo AdBlock — Bảng điều khiển",
+    "description": "English: Primo AdBlock — Dashboard"
   },
   "settingsPageName": {
     "message": "Cài đặt",
@@ -164,7 +164,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Phát hiện uBO Lite",
+    "message": "Phát hiện Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -172,7 +172,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Trục trặc khi bật uBO Lite",
+    "message": "Trục trặc khi bật Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -284,7 +284,7 @@
     "description": "Web page title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite đã ngăn tải trang sau:",
+    "message": "Primo AdBlock đã ngăn tải trang sau:",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {

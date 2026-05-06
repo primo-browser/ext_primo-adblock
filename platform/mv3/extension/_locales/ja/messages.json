@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin Lite",
+    "message": "Primo AdBlock Lite",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -12,8 +12,8 @@
     "description": "Appears aside each filter list in the _3rd-party filters_ pane"
   },
   "dashboardName": {
-    "message": "uBO Lite — ダッシュボード",
-    "description": "English: uBO Lite — Dashboard"
+    "message": "Primo AdBlock — ダッシュボード",
+    "description": "English: Primo AdBlock — Dashboard"
   },
   "settingsPageName": {
     "message": "設定",
@@ -28,7 +28,7 @@
     "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu"
   },
   "aboutPageName": {
-    "message": "uBO Lite について",
+    "message": "Primo AdBlock について",
     "description": "appears as tab name in dashboard"
   },
   "aboutPrivacyPolicy": {
@@ -164,7 +164,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "uBO Lite が検出される",
+    "message": "Primo AdBlock が検出される",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -172,7 +172,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "uBO Lite 有効時に機能しなくなる",
+    "message": "Primo AdBlock 有効時に機能しなくなる",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -284,7 +284,7 @@
     "description": "Web page title for the strict-blocked page"
   },
   "strictblockSentence1": {
-    "message": "uBO Lite はこのページの読み込みをブロックしています：",
+    "message": "Primo AdBlock はこのページの読み込みをブロックしています：",
     "description": "Sentence used in the strict-blocked page"
   },
   "strictblockReasonSentence1": {
