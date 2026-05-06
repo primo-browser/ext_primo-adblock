@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="build" type="NodeJSConfigurationType" application-parameters="build.mjs" path-to-js-file="/opt/homebrew/bin/zx" working-dir="$PROJECT_DIR$">
+    <method v="2" />
+  </configuration>
+</component>

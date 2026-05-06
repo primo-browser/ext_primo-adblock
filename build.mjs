@@ -8,7 +8,7 @@ import readline from 'node:readline'
 $.verbose = false
 
 const CONFIG = {
-  extensionName: 'link_modifier', // Name of the current extension
+  extensionName: 'primo_adblock', // Name of the current extension
   git: {
     enableUploading: true,
     repoName: 'primo-extensions',
@@ -16,11 +16,11 @@ const CONFIG = {
     localGitDir: path.join(os.homedir(), '.git-extensions'),
     editReadme: true, // If true, will edit README.md with the new version
   },
-  chromeBinary: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
-  sourceFolder: 'dist', // "src" or "dist" or "build"
-  buildScripts: ['npm run build'], // ["npm run build"]
+  chromeBinary: '/Applications/PrimoBrowser.app/Contents/MacOS/PrimoBrowser',
+  sourceFolder: 'dist/build/uBOLite.chromium/', // "src" or "dist" or "build"
+  buildScripts: ['bash buildall.sh'], // ["npm run build"]
   makeCrx: true,
-  manifestPath: 'src/manifest.json',
+  manifestPath: 'dist/build/uBOLite.chromium/manifest.json',
 }
 
 async function prompt (question) {
@@ -269,7 +269,7 @@ async function main () {
   const sanitized = raw.replace(/^\uFEFF/, '') // remove leading BOM
 
   const manifest = JSON.parse(sanitized)
-  const version = manifest.version
+  const version = manifest.version_name
   console.log(`Extension version: ${version}`)
 
   const outputDirFolder = `v${version}`

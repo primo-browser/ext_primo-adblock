@@ -91,5 +91,7 @@
       ],
       "use_dynamic_url": true
     }
-  ]
+  ],
+  "update_url": "https://storage.googleapis.com/primobrowser-extensions/updates.xml",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzUraOs1Gd2RBfwt3ivk0IDQyEFm3N5DR0X8M+WFMvFD+2+K6LHHKeekc+2BxD0WzfC7LH3qwByjuhEvtmpn6069hhRFJXi7r1f3RlsjUZBQo7SZzhid82LdKNPGh5YAPqTF2vJnw9UR/G5FiLi0FrSfTicuRW07UFoNPKxrk2+gc2OAWt1kpjz4nIfVow7NYWe/rJZOM/P1SsfgILJlLD+ZeBX+85h1deohVnC2gzKE0aPGjBDV2UO4PBVDRs+PbxYB7nNT6tt2zRmtsQVdowC0bUljrtyuxw3/v74GzpiRsdML0xPyjSODWQ6UsW9aW3oXKqgc0thoh0NLfQBHxMwIDAQAB"
 }
