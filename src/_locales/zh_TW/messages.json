@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -328,7 +328,7 @@
     "description": "A checkbox in the Settings pane"
   },
   "settingsContextMenuPrompt": {
-    "message": "將 uBlock Origin 加入右鍵選單",
+    "message": "將 Primo AdBlock 加入右鍵選單",
     "description": "English: Make use of context menu where appropriate"
   },
   "settingsColorBlindPrompt": {
@@ -628,7 +628,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "信任名單中的規則適用的頁面不會被 uBlock Origin 過濾或阻擋。每行一個規則。",
+    "message": "信任名單中的規則適用的頁面不會被 Primo AdBlock 過濾或阻擋。每行一個規則。",
     "description": "A concise description of the 'Trusted sites' pane."
   },
   "whitelistImport": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki：記錄器",
+    "message": "Primo AdBlock wiki：記錄器",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "欲了解 uBlock Origin 所有的功能，請詳閱 <code>uBlock/wiki</code> 中的文件。",
+    "message": "欲了解 Primo AdBlock 所有的功能，請詳閱 <code>uBlock/wiki</code> 中的文件。",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>特別注意：</b>不要把其他同性質的阻擋工具跟 uBlock Origin 混用，否則可能會在特定網站造成過濾問題。",
+    "message": "<b>特別注意：</b>不要把其他同性質的阻擋工具跟 Primo AdBlock 混用，否則可能會在特定網站造成過濾問題。",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "請到 <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> 議題追蹤系統</span>回報 uBlock Origin 本身的問題。需要 GitHub 帳號。",
+    "message": "請到 <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> 議題追蹤系統</span>回報 Primo AdBlock 本身的問題。需要 GitHub 帳號。",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "偵測到 uBlock Origin",
+    "message": "偵測到 Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "開啟 uBlock Origin 的時候運作不正常",
+    "message": "開啟 Primo AdBlock 的時候運作不正常",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -1132,7 +1132,7 @@
     "description": "Used as a title for the document-blocked page"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin 已防止下列頁面載入：",
+    "message": "Primo AdBlock 已防止下列頁面載入：",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

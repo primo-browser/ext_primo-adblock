@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -628,7 +628,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "En ur dermeniñ peseurt lec'hiennoù a zo sur e lavarit da uBlock Origin e peseurt lec'hiennoù e rank bezañ diweredekaet. Un enmont dre linenn.",
+    "message": "En ur dermeniñ peseurt lec'hiennoù a zo sur e lavarit da Primo AdBlock e peseurt lec'hiennoù e rank bezañ diweredekaet. Un enmont dre linenn.",
     "description": "A concise description of the 'Trusted sites' pane."
   },
   "whitelistImport": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "Pajenn wiki uBlock Origin: An Deizlevr",
+    "message": "Pajenn wiki Primo AdBlock: An Deizlevr",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "Lennit an teuliadur en <code>uBlock/wiki</code> evit gouzout hiroc'h diwar-benn uBlock Origin ha pep tra a c'hall ober.",
+    "message": "Lennit an teuliadur en <code>uBlock/wiki</code> evit gouzout hiroc'h diwar-benn Primo AdBlock ha pep tra a c'hall ober.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>A-bouez:</b> Chomit hep ober gant meur a stanker a zo heñvel ouzh uBlock Origin war un dro rak kement-se a c'hallfe degas kudennoù e lod lec'hiennoù zo.",
+    "message": "<b>A-bouez:</b> Chomit hep ober gant meur a stanker a zo heñvel ouzh Primo AdBlock war un dro rak kement-se a c'hallfe degas kudennoù e lod lec'hiennoù zo.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "Danevellit kudennoù gant uBlock Origin e-unan e-barzh <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\">roll evezhiañ kudennoù <code>uBlockOrigin/uBlock-issue</code></span>. <u>Ur c'hont GitHub zo rekis.</u>",
+    "message": "Danevellit kudennoù gant Primo AdBlock e-unan e-barzh <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\">roll evezhiañ kudennoù <code>uBlockOrigin/uBlock-issue</code></span>. <u>Ur c'hont GitHub zo rekis.</u>",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Diskoachañ a ra uBlock Origin",
+    "message": "Diskoachañ a ra Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Ne ya ket mat en-dro p'eo enaouet uBlock Origin",
+    "message": "Ne ya ket mat en-dro p'eo enaouet Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -1132,7 +1132,7 @@
     "description": "Used as a title for the document-blocked page"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin en deus miret ar bajenn-mañ da gargañ:",
+    "message": "Primo AdBlock en deus miret ar bajenn-mañ da gargañ:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki: Egunkaria",
+    "message": "Primo AdBlock wiki: Egunkaria",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "Irakurri dokumentazioa <code>uBlock/wiki</code> helbidean, uBlock Originen funtzio guztiak ezagutzeko.",
+    "message": "Irakurri dokumentazioa <code>uBlock/wiki</code> helbidean, Primo AdBlocken funtzio guztiak ezagutzeko.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>Kontuan izan:</b> Ez erabili antzeko helburua duten beste blokeatzaile batzuk uBlock Originekin batera, horrek arazoak sor baititzake webgune espezifikoetan iragazteko.",
+    "message": "<b>Kontuan izan:</b> Ez erabili antzeko helburua duten beste blokeatzaile batzuk Primo AdBlockekin batera, horrek arazoak sor baititzake webgune espezifikoetan iragazteko.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "Arazoak jakinarazi uBlock Originekin arazoen erregistroan <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code>issue tracker</span>. <u>GitHub kontua beharrezkoa da.</u>",
+    "message": "Arazoak jakinarazi Primo AdBlockekin arazoen erregistroan <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code>issue tracker</span>. <u>GitHub kontua beharrezkoa da.</u>",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "uBlock Origin detektatzen du",
+    "message": "Primo AdBlock detektatzen du",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Funtzionamendu-akatsak uBlock Origin aktibatuta dagoenean",
+    "message": "Funtzionamendu-akatsak Primo AdBlock aktibatuta dagoenean",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {

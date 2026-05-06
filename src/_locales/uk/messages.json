@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki: журнал",
+    "message": "Primo AdBlock wiki: журнал",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "Прочитайте документацію на <code>uBlock/вікі</code>, щоб дізнатися про всі функції uBlock Origin.",
+    "message": "Прочитайте документацію на <code>uBlock/вікі</code>, щоб дізнатися про всі функції Primo AdBlock.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>Важливо:</b> Уникайте використання інших блокувальників аналогічного призначення разом із uBlock Origin, оскільки це може спричинити проблеми з фільтрами на певних вебсайтах.",
+    "message": "<b>Важливо:</b> Уникайте використання інших блокувальників аналогічного призначення разом із Primo AdBlock, оскільки це може спричинити проблеми з фільтрами на певних вебсайтах.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "Повідомити про проблеми самого uBlock Origin <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\">відстежувач проблем <code>uBlockOrigin/uBlock-issue</code>. <u>Потрібен обліковий запис GitHub.</u>",
+    "message": "Повідомити про проблеми самого Primo AdBlock <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\">відстежувач проблем <code>uBlockOrigin/uBlock-issue</code>. <u>Потрібен обліковий запис GitHub.</u>",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Виявляє uBlock Origin",
+    "message": "Виявляє Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Щось не працює, якщо увімкнено uBlock Origin",
+    "message": "Щось не працює, якщо увімкнено Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {

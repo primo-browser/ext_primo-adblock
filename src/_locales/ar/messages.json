@@ -628,7 +628,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "تحدد توجيهات المواقع الموثوقة الصفحات التي يجب تعطيل uBlock Origin عليها. إدخال واحد في كل سطر.",
+    "message": "تحدد توجيهات المواقع الموثوقة الصفحات التي يجب تعطيل Primo AdBlock عليها. إدخال واحد في كل سطر.",
     "description": "A concise description of the 'Trusted sites' pane."
   },
   "whitelistImport": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "اقرأ الوثائق الموجودة في <code>uBlock/wiki</code> للتعرف على جميع ميزات uBlock Origin.",
+    "message": "اقرأ الوثائق الموجودة في <code>uBlock/wiki</code> للتعرف على جميع ميزات Primo AdBlock.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>هام:</b> تجنب استخدام أدوات حظر أخرى ذات أغراض مماثلة مع uBlock Origin، لأن ذلك قد يتسبب في مشكلات في التصفية على مواقع ويب معينة.",
+    "message": "<b>هام:</b> تجنب استخدام أدوات حظر أخرى ذات أغراض مماثلة مع Primo AdBlock، لأن ذلك قد يتسبب في مشكلات في التصفية على مواقع ويب معينة.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "أعطال عند تمكين uBlock Origin",
+    "message": "أعطال عند تمكين Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {

@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -628,7 +628,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "විශ්වාසදායක අඩවි නියෝග මඟින් uBlock Origin අක්‍රිය කළ යුත්තේ කුමන වෙබ් පිටු මතද යන්න නියම කරයි. පේළියකට එක් ඇතුළත් කිරීමක් පමණි.",
+    "message": "විශ්වාසදායක අඩවි නියෝග මඟින් Primo AdBlock අක්‍රිය කළ යුත්තේ කුමන වෙබ් පිටු මතද යන්න නියම කරයි. පේළියකට එක් ඇතුළත් කිරීමක් පමණි.",
     "description": "A concise description of the 'Trusted sites' pane."
   },
   "whitelistImport": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "uBlock Origin හි සියලුම විශේෂාංග ගැන ඉගෙන ගැනීමට <code>uBlock/wiki</code> හි ඇති ලේඛන කියවන්න.",
+    "message": "Primo AdBlock හි සියලුම විශේෂාංග ගැන ඉගෙන ගැනීමට <code>uBlock/wiki</code> හි ඇති ලේඛන කියවන්න.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>වැදගත්:</b> uBlock Origin සමඟ සමාන අරමුණු සහිත වෙනත් අවහිර කරන්නන් භාවිතා කිරීමෙන් වළකින්න, මන්ද මෙය නිශ්චිත වෙබ් අඩවි වල පෙරහන් ගැටළු ඇති කළ හැකිය.",
+    "message": "<b>වැදගත්:</b> Primo AdBlock සමඟ සමාන අරමුණු සහිත වෙනත් අවහිර කරන්නන් භාවිතා කිරීමෙන් වළකින්න, මන්ද මෙය නිශ්චිත වෙබ් අඩවි වල පෙරහන් ගැටළු ඇති කළ හැකිය.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "uBlock Origin සමඟ ඇති ගැටළු <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> ගැටළු ට්‍රැකර්</span>වෙත වාර්තා කරන්න. <u>GitHub ගිණුමක් අවශ්‍යයි.</u>",
+    "message": "Primo AdBlock සමඟ ඇති ගැටළු <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> ගැටළු ට්‍රැකර්</span>වෙත වාර්තා කරන්න. <u>GitHub ගිණුමක් අවශ්‍යයි.</u>",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "uBlock Origin සක්‍රීය කර ඇති විට සිදුවන අක්‍රමිකතා",
+    "message": "Primo AdBlock සක්‍රීය කර ඇති විට සිදුවන අක්‍රමිකතා",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -1132,7 +1132,7 @@
     "description": "Used as a title for the document-blocked page"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin විසින් පහත පිටුව පූරණය වීම වළක්වා ඇත:",
+    "message": "Primo AdBlock විසින් පහත පිටුව පූරණය වීම වළක්වා ඇත:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

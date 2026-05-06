@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -628,7 +628,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "[信頼するサイト] では uBlock Origin を無効にするウェブページを指定します。1 行につき 1 つです。",
+    "message": "[信頼するサイト] では Primo AdBlock を無効にするウェブページを指定します。1 行につき 1 つです。",
     "description": "A concise description of the 'Trusted sites' pane."
   },
   "whitelistImport": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki: ログ",
+    "message": "Primo AdBlock wiki: ログ",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "uBlock Origin のすべての機能については <code>uBlock/wiki</code> のドキュメントをお読みください。",
+    "message": "Primo AdBlock のすべての機能については <code>uBlock/wiki</code> のドキュメントをお読みください。",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>重要:</b> 似た機能を持つブロッカーを uBlock Origin と併用することは控えてください。特定のウェブサイトでフィルターの問題を引き起こすことがあります。",
+    "message": "<b>重要:</b> 似た機能を持つブロッカーを Primo AdBlock と併用することは控えてください。特定のウェブサイトでフィルターの問題を引き起こすことがあります。",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "uBlock Origin 自体の問題は <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> の Issue トラッカー</span>に報告してください。<u>GitHub のアカウントが必要です。</u>",
+    "message": "Primo AdBlock 自体の問題は <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> の Issue トラッカー</span>に報告してください。<u>GitHub のアカウントが必要です。</u>",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "uBlock Origin を検出します",
+    "message": "Primo AdBlock を検出します",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "uBlock Origin を有効にすると誤動作します",
+    "message": "Primo AdBlock を有効にすると誤動作します",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -1132,7 +1132,7 @@
     "description": "Used as a title for the document-blocked page"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin は、 以下のサイトの読み込みを防止しました:",
+    "message": "Primo AdBlock は、 以下のサイトの読み込みを防止しました:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -628,7 +628,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "白名单中的规则匹配的页面不会被 uBlock Origin 过滤或阻挡。每行一条规则。",
+    "message": "白名单中的规则匹配的页面不会被 Primo AdBlock 过滤或阻挡。每行一条规则。",
     "description": "A concise description of the 'Trusted sites' pane."
   },
   "whitelistImport": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki：记录器",
+    "message": "Primo AdBlock wiki：记录器",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "请至 <code>uBlock/wiki</code> 参阅 uBlock Origin 的所有功能以及使用说明。",
+    "message": "请至 <code>uBlock/wiki</code> 参阅 Primo AdBlock 的所有功能以及使用说明。",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>重要：</b>避免同时使用类似 uBlock Origin 的过滤软件，这可能导致在特定的网站上遇到过滤规则问题。",
+    "message": "<b>重要：</b>避免同时使用类似 Primo AdBlock 的过滤软件，这可能导致在特定的网站上遇到过滤规则问题。",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "将 uBlock Origin 本身的问题反馈至 <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> 问题跟踪器</span>。<u>需要 GitHub 账号。</u>",
+    "message": "将 Primo AdBlock 本身的问题反馈至 <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> 问题跟踪器</span>。<u>需要 GitHub 账号。</u>",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "检测出 uBlock Origin",
+    "message": "检测出 Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "启用 uBlock Origin 后出现异常",
+    "message": "启用 Primo AdBlock 后出现异常",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -1132,7 +1132,7 @@
     "description": "Used as a title for the document-blocked page"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin 阻止了下列页面加载：",
+    "message": "Primo AdBlock 阻止了下列页面加载：",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

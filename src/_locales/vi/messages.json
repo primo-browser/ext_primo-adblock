@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -628,7 +628,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "Các đường dẫn trang web đáng tin cậy cố định mà uBlock Origin sẽ bị vô hiệu hóa trên trang đó. Một mục nhập cho mỗi dòng.",
+    "message": "Các đường dẫn trang web đáng tin cậy cố định mà Primo AdBlock sẽ bị vô hiệu hóa trên trang đó. Một mục nhập cho mỗi dòng.",
     "description": "A concise description of the 'Trusted sites' pane."
   },
   "whitelistImport": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki: Các logger",
+    "message": "Primo AdBlock wiki: Các logger",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "Đọc tài liệu tại <code>uBlock/wiki</code> để tìm hiểu về các tính năng của uBlock Origin.",
+    "message": "Đọc tài liệu tại <code>uBlock/wiki</code> để tìm hiểu về các tính năng của Primo AdBlock.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>Lưu ý quan trọng:<b> Tránh sử dụng các bộ chặn có chức năng tương tự song song uBlock Origin vì có thể gây ra lỗi bộ lọc trên nhiều trang web.",
+    "message": "<b>Lưu ý quan trọng:<b> Tránh sử dụng các bộ chặn có chức năng tương tự song song Primo AdBlock vì có thể gây ra lỗi bộ lọc trên nhiều trang web.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "Báo cáo lỗi cho uBlock Origin cho <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> issue tracker</span>. <u>Cần tài khoản GitHub</u>",
+    "message": "Báo cáo lỗi cho Primo AdBlock cho <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> issue tracker</span>. <u>Cần tài khoản GitHub</u>",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Phát hiện uBlock Origin",
+    "message": "Phát hiện Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Trục trặc khi bật uBlock Origin",
+    "message": "Trục trặc khi bật Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {

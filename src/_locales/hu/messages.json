@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki: A naplózó",
+    "message": "Primo AdBlock wiki: A naplózó",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "A uBlock Origin további funkcióihoz olvassa el a dokumentációt itt: <code>uBlock/wiki</code>.",
+    "message": "A Primo AdBlock további funkcióihoz olvassa el a dokumentációt itt: <code>uBlock/wiki</code>.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>Fontos:</b> Ne használjon hasonló célú reklámblokkolókat a uBlock Originnel egyidőben, mert ez szűrőhibákat okozhat bizonyos weboldalakon.",
+    "message": "<b>Fontos:</b> Ne használjon hasonló célú reklámblokkolókat a Primo AdBlocknel egyidőben, mert ez szűrőhibákat okozhat bizonyos weboldalakon.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "A uBlock Origin hibáit jelentse a <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> hibakövetőben</span>. <u>GitHub-fiók szükséges.</u>",
+    "message": "A Primo AdBlock hibáit jelentse a <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> hibakövetőben</span>. <u>GitHub-fiók szükséges.</u>",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Észleli a uBlock Origint",
+    "message": "Észleli a Primo AdBlockt",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Hibásan működik, amikor a uBlock Origin be van kapcsolva",
+    "message": "Hibásan működik, amikor a Primo AdBlock be van kapcsolva",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -1132,7 +1132,7 @@
     "description": "Used as a title for the document-blocked page"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin nem engedte a következő lap betöltését:",
+    "message": "Primo AdBlock nem engedte a következő lap betöltését:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "uBlock Origin এর সমস্ত ফিচার সম্পর্কে জানতে <code>uBlock/wiki</code> এ ডকুমেন্টেশন পড়ুন।",
+    "message": "Primo AdBlock এর সমস্ত ফিচার সম্পর্কে জানতে <code>uBlock/wiki</code> এ ডকুমেন্টেশন পড়ুন।",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>গুরুত্বপূর্ণ:</b> uBlock Origin-এর সাথে একই রকম-উদ্দেশ্যযুক্ত ব্লকার ব্যবহার করা এড়িয়ে চলুন, কারণ এটি নির্দিষ্ট ওয়েবসাইটে ফিল্টার এর সমস্যা সৃষ্টি করতে পারে।",
+    "message": "<b>গুরুত্বপূর্ণ:</b> Primo AdBlock-এর সাথে একই রকম-উদ্দেশ্যযুক্ত ব্লকার ব্যবহার করা এড়িয়ে চলুন, কারণ এটি নির্দিষ্ট ওয়েবসাইটে ফিল্টার এর সমস্যা সৃষ্টি করতে পারে।",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "uBlock Origin শনাক্ত করে",
+    "message": "Primo AdBlock শনাক্ত করে",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "যখন uBlock Origin চালু করা থাকে তখন সমস্যা দেখা দেয়",
+    "message": "যখন Primo AdBlock চালু করা থাকে তখন সমস্যা দেখা দেয়",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {

@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -628,7 +628,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "Arahan laman web yang dipercayai menentukan halaman web mana uBlock Origin harus dilumpuhkan. Satu penyertaan setiap baris. Arahan tidak sah akan diam-diam diabaikan dan dikomentari.",
+    "message": "Arahan laman web yang dipercayai menentukan halaman web mana Primo AdBlock harus dilumpuhkan. Satu penyertaan setiap baris. Arahan tidak sah akan diam-diam diabaikan dan dikomentari.",
     "description": "A concise description of the 'Trusted sites' pane."
   },
   "whitelistImport": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki: Catatan",
+    "message": "Primo AdBlock wiki: Catatan",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "Baca pendokumenan di <code>uBlock/wiki</code>  untuk belajar tentang kesemua ciri-ciri uBlock Origin.",
+    "message": "Baca pendokumenan di <code>uBlock/wiki</code>  untuk belajar tentang kesemua ciri-ciri Primo AdBlock.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>Penting:</b> Elakkan menggunakan penyekat-penyekat lain yang serupa dengan uBlock Origin, kerana ia menimbulkan masalah penapis di laman web tertentu.",
+    "message": "<b>Penting:</b> Elakkan menggunakan penyekat-penyekat lain yang serupa dengan Primo AdBlock, kerana ia menimbulkan masalah penapis di laman web tertentu.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "Laporkan masalah dengan uBlock Origin sendiri ke <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> pengesan masalah</span>. Memerlukan akaun GitHub.",
+    "message": "Laporkan masalah dengan Primo AdBlock sendiri ke <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> pengesan masalah</span>. Memerlukan akaun GitHub.",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Mengesan uBlock Origin",
+    "message": "Mengesan Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Rosak pabila uBlock Origin didayakan",
+    "message": "Rosak pabila Primo AdBlock didayakan",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -1132,7 +1132,7 @@
     "description": "Used as a title for the document-blocked page"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin menghalang halaman berikut memuatkan:",
+    "message": "Primo AdBlock menghalang halaman berikut memuatkan:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

@@ -628,7 +628,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "Saraksts ar interneta resursiem, kuriem tiks atslēgts uBlock Origin. Viens ieraksts katrā rindiņā. Nederīgi interneta resursu nosaukumi tiks ignorēti bez brīdinājuma.",
+    "message": "Saraksts ar interneta resursiem, kuriem tiks atslēgts Primo AdBlock. Viens ieraksts katrā rindiņā. Nederīgi interneta resursu nosaukumi tiks ignorēti bez brīdinājuma.",
     "description": "A concise description of the 'Trusted sites' pane."
   },
   "whitelistImport": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki: žurnāls",
+    "message": "Primo AdBlock wiki: žurnāls",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "Dokumentāciju var lasīt <code>uBlock/wiki</code>, lai uzzinātu par visām uBlock Origin iespējām.",
+    "message": "Dokumentāciju var lasīt <code>uBlock/wiki</code>, lai uzzinātu par visām Primo AdBlock iespējām.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>Svarīgi:</b> ir jāizvairās no līdzīgu aizturētāju izmantošanas vienlaicīgi ar uBlock Origin, jo tas var radīt aizturēšanas kļūmes noteiktās vietnēs.",
+    "message": "<b>Svarīgi:</b> ir jāizvairās no līdzīgu aizturētāju izmantošanas vienlaicīgi ar Primo AdBlock, jo tas var radīt aizturēšanas kļūmes noteiktās vietnēs.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "Par uBlock Origin nepilnībām jāziņo <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code></span>.",
+    "message": "Par Primo AdBlock nepilnībām jāziņo <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code></span>.",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Nosaka uBlock Origin",
+    "message": "Nosaka Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Salūzt, kad uBlock Origin ir iespējots",
+    "message": "Salūzt, kad Primo AdBlock ir iespējots",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {

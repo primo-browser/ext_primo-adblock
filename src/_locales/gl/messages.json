@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -628,7 +628,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "As directivas de sitios de confianza indican as páxinas nas que uBlock Origin estará desactivado. Ten unha entrada por cada liña.",
+    "message": "As directivas de sitios de confianza indican as páxinas nas que Primo AdBlock estará desactivado. Ten unha entrada por cada liña.",
     "description": "A concise description of the 'Trusted sites' pane."
   },
   "whitelistImport": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "wiki de uBlock Origin: The logger",
+    "message": "wiki de Primo AdBlock: The logger",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "Le a documentación en <code>uBlock/wiki</code> para saber máis acerca das ferramentas de uBlock Origin.",
+    "message": "Le a documentación en <code>uBlock/wiki</code> para saber máis acerca das ferramentas de Primo AdBlock.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>Importante:</b> Evitar usar ao mesmo tempo outros bloqueadores semellantes a uBlock Origin, xa que podería causar problemas co filtrado nalgunhas webs en concreto.",
+    "message": "<b>Importante:</b> Evitar usar ao mesmo tempo outros bloqueadores semellantes a Primo AdBlock, xa que podería causar problemas co filtrado nalgunhas webs en concreto.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Detecta uBlock Origin",
+    "message": "Detecta Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Funciona mal cando teño uBlock Origin activado",
+    "message": "Funciona mal cando teño Primo AdBlock activado",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {

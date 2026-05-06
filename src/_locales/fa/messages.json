@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "ویکی uBlock Origin: ثبت‌کننده رویداد‌ها",
+    "message": "ویکی Primo AdBlock: ثبت‌کننده رویداد‌ها",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "مستنداتی که در <code>uBlock/wiki</code> هست را بخوانید تا با تمام امکانات uBlock Origin آشنا شوید.",
+    "message": "مستنداتی که در <code>uBlock/wiki</code> هست را بخوانید تا با تمام امکانات Primo AdBlock آشنا شوید.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "مشکلات مربوط به خود uBlock Origin را به <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code></span> گزارش دهید. <u>نیاز به یک حساب کاربری GitHub دارد.</u>",
+    "message": "مشکلات مربوط به خود Primo AdBlock را به <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code></span> گزارش دهید. <u>نیاز به یک حساب کاربری GitHub دارد.</u>",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -1048,7 +1048,7 @@
     "description": "Shown in the About pane"
   },
   "aboutCDNs": {
-    "message": "لیست‌های فیلتر اصلی uBlock Origin به صورت آزاد در <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">این شبکه‌های تحویل محتوا</a> میزبانی می‌شوند.",
+    "message": "لیست‌های فیلتر اصلی Primo AdBlock به صورت آزاد در <a href=\"https://wikipedia.org/wiki/Content_delivery_network\">این شبکه‌های تحویل محتوا</a> میزبانی می‌شوند.",
     "description": "Shown in the About pane"
   },
   "aboutCDNsInfo": {

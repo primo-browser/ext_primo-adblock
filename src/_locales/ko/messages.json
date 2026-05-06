@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin 위키: 로거",
+    "message": "Primo AdBlock 위키: 로거",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "<code>uBlock/wiki</code>의 문서를 읽고 uBlock Origin의 모든 기능에 대해 알아보세요.",
+    "message": "<code>uBlock/wiki</code>의 문서를 읽고 Primo AdBlock의 모든 기능에 대해 알아보세요.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>중요:</b> uBlock Origin과 유사한 목적의 다른 차단기를 함께 사용하지 마세요. 일부 웹사이트에서 필터 문제가 발생할 수 있습니다.",
+    "message": "<b>중요:</b> Primo AdBlock과 유사한 목적의 다른 차단기를 함께 사용하지 마세요. 일부 웹사이트에서 필터 문제가 발생할 수 있습니다.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "uBlock Origin 자체에 대한 이슈는 <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> 이슈 트래커</span>에 보고해주세요. GitHub 계정이 필요합니다.",
+    "message": "Primo AdBlock 자체에 대한 이슈는 <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> 이슈 트래커</span>에 보고해주세요. GitHub 계정이 필요합니다.",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "uBlock Origin 사용을 감지합니다",
+    "message": "Primo AdBlock 사용을 감지합니다",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "uBlock Origin을 켜면 깨집니다",
+    "message": "Primo AdBlock을 켜면 깨집니다",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -1132,7 +1132,7 @@
     "description": "Used as a title for the document-blocked page"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin이 다음 페이지를 로드하는것을 방지했습니다:",
+    "message": "Primo AdBlock이 다음 페이지를 로드하는것을 방지했습니다:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

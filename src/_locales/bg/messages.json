@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -628,7 +628,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "Указанията за доверени сайтове определят кои уеб страници трябва да бъдат изключени от uBlock Origin. По един запис на ред.",
+    "message": "Указанията за доверени сайтове определят кои уеб страници трябва да бъдат изключени от Primo AdBlock. По един запис на ред.",
     "description": "A concise description of the 'Trusted sites' pane."
   },
   "whitelistImport": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin wiki: Дневникът със заявки",
+    "message": "Primo AdBlock wiki: Дневникът със заявки",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "Прочетете документацията в <code>uBlock/wiki</code>, за да научите повече за всички функции на uBlock Origin.",
+    "message": "Прочетете документацията в <code>uBlock/wiki</code>, за да научите повече за всички функции на Primo AdBlock.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>Важно:</b> Избягвайте да използвате други блокери с подобно предназначение заедно с uBlock Origin, тъй като това може да доведе до проблеми с филтрирането на определени уебсайтове.",
+    "message": "<b>Важно:</b> Избягвайте да използвате други блокери с подобно предназначение заедно с Primo AdBlock, тъй като това може да доведе до проблеми с филтрирането на определени уебсайтове.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "Докладвайте за проблеми със самия uBlock Origin в <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> за проследяване на проблеми</span>. <u>Изисква се акаунт в GitHub.</u>",
+    "message": "Докладвайте за проблеми със самия Primo AdBlock в <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\"><code>uBlockOrigin/uBlock-issue</code> за проследяване на проблеми</span>. <u>Изисква се акаунт в GitHub.</u>",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Открива uBlock Origin",
+    "message": "Открива Primo AdBlock",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Функционира неправилно, когато uBlock Origin е активиран",
+    "message": "Функционира неправилно, когато Primo AdBlock е активиран",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -1132,7 +1132,7 @@
     "description": "Used as a title for the document-blocked page"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin предотврати зареждането на страницата:",
+    "message": "Primo AdBlock предотврати зареждането на страницата:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

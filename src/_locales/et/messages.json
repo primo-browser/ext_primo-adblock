@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock Origin",
+    "message": "Primo AdBlock",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -628,7 +628,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "Usaldatud saitide direktiivid määravad, millistel veebilehtedel peaks uBlock Origin keelatud olema. Üks kirje rea kohta.",
+    "message": "Usaldatud saitide direktiivid määravad, millistel veebilehtedel peaks Primo AdBlock keelatud olema. Üks kirje rea kohta.",
     "description": "A concise description of the 'Trusted sites' pane."
   },
   "whitelistImport": {
@@ -688,7 +688,7 @@
     "description": "Tooltip for the popup panel button in the logger page"
   },
   "loggerInfoTip": {
-    "message": "uBlock Origin'i viki: Logija",
+    "message": "Primo AdBlock'i viki: Logija",
     "description": "Tooltip for the top-right info label in the logger page"
   },
   "loggerClearTip": {
@@ -912,7 +912,7 @@
     "description": "Header of 'Documentation' section in Support pane"
   },
   "supportS1P1": {
-    "message": "Loe dokumente kohas <code>uBlock/wiki</code>, et avastada kõik uBlock Origini võimalusi.",
+    "message": "Loe dokumente kohas <code>uBlock/wiki</code>, et avastada kõik Primo AdBlocki võimalusi.",
     "description": "First paragraph of 'Documentation' section in Support pane"
   },
   "supportS2H": {
@@ -932,7 +932,7 @@
     "description": "First paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P2": {
-    "message": "<b>Oluline:</b> väldi teiste sarnaselt toimivate blokeerijate kasutamist koos uBlock Originiga, see võib põhjustada teatud lehtedel filtrivigu.",
+    "message": "<b>Oluline:</b> väldi teiste sarnaselt toimivate blokeerijate kasutamist koos Primo AdBlockiga, see võib põhjustada teatud lehtedel filtrivigu.",
     "description": "Second paragraph of 'Filter issues' section in Support pane"
   },
   "supportS3P3": {
@@ -944,7 +944,7 @@
     "description": "Header of 'Bug report' section in Support pane"
   },
   "supportS4P1": {
-    "message": "Teata uBlock Origini vigadest <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\">uBlockOrigin/uBlock-issue</code> veahalduris</span>. <u>Nõuab GitHubi kontot.</u>",
+    "message": "Teata Primo AdBlocki vigadest <span data-url=\"https://github.com/uBlockOrigin/uBlock-issues/issues?q=is%3Aissue\">uBlockOrigin/uBlock-issue</code> veahalduris</span>. <u>Nõuab GitHubi kontot.</u>",
     "description": "First paragraph of 'Bug report' section in Support pane"
   },
   "supportS5H": {
@@ -992,7 +992,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option3": {
-    "message": "Tuvastab uBlock Origini",
+    "message": "Tuvastab Primo AdBlocki",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option4": {
@@ -1000,7 +1000,7 @@
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option5": {
-    "message": "Läheb uBlock Origini olemasolul katki",
+    "message": "Läheb Primo AdBlocki olemasolul katki",
     "description": "An entry in the widget used to select the type of issue"
   },
   "supportS6Select1Option6": {
@@ -1132,7 +1132,7 @@
     "description": "Used as a title for the document-blocked page"
   },
   "docblockedPrompt1": {
-    "message": "uBlock Origin on keelanud järgneva lehe laadimise:",
+    "message": "Primo AdBlock on keelanud järgneva lehe laadimise:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {
