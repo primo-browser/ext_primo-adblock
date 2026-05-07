@@ -21,7 +21,7 @@ const CONFIG = {
   sourceFolder: 'dist/build/uBOLite.chromium/', // "src" or "dist" or "build"
   buildScripts: ['bash buildall.sh'], // ["npm run build"]
   makeCrx: true,
-  manifestPath: 'dist/build/uBOLite.chromium/manifest.json',
+  manifestPath: 'platform/mv3/chromium/manifest.json',
   obfuscate: true,
 }
 
