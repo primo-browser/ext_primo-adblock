@@ -1,9 +1,10 @@
 #!/usr/bin/env zx
-// Builder version 2.0.0
+// Builder version: no version
 
 import * as path from 'node:path'
 import * as os from 'node:os'
 import readline from 'node:readline'
+import { obfuscateBuild } from './tools/primo-obfuscate.mjs'
 
 $.verbose = false
 
@@ -21,6 +22,7 @@ const CONFIG = {
   buildScripts: ['bash buildall.sh'], // ["npm run build"]
   makeCrx: true,
   manifestPath: 'dist/build/uBOLite.chromium/manifest.json',
+  obfuscate: true,
 }
 
 async function prompt (question) {
@@ -42,9 +44,12 @@ async function buildFromScript (script) {
   await $`${script.split(' ')}`
 }
 
-async function copyAndZipSourceFolder (buildDir, name) {
+async function copySourceFolder (buildDir, name) {
   await fs.copy(CONFIG.sourceFolder, `${buildDir}/${name}`)
   await $`find ${buildDir}/${name} -name .DS_Store -type f -delete`
+}
+
+async function zipSourceFolder (buildDir, name) {
   await $`cd ${buildDir} && zip -r ${name}.zip ${name}`
 }
 
@@ -283,11 +288,23 @@ async function main () {
   if (CONFIG.buildScripts.length > 0) {
     for (const script of CONFIG.buildScripts) {
       await buildFromScript(script)
-      await copyAndZipSourceFolder(buildDir, outputFolder)
+      await copySourceFolder(buildDir, outputFolder)
+      if (CONFIG.obfuscate) {
+        await obfuscateBuild(`${buildDir}/${outputFolder}`)
+      } else {
+        console.log('⚠️ Obfuscation disabled (PRIMO_OBFUSCATE=0)')
+      }
+      await zipSourceFolder(buildDir, outputFolder)
     }
   } else {
     console.log('🔨 No build scripts provided, using default build...')
-    await copyAndZipSourceFolder(buildDir, outputFolder)
+    await copySourceFolder(buildDir, outputFolder)
+    if (CONFIG.obfuscate) {
+      await obfuscateBuild(`${buildDir}/${outputFolder}`)
+    } else {
+      console.log('⚠️ Obfuscation disabled (PRIMO_OBFUSCATE=0)')
+    }
+    await zipSourceFolder(buildDir, outputFolder)
   }
 
   console.log('✅ Builds completed')

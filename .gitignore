@@ -7,3 +7,7 @@ node_modules/
 .DS_Store
 .idea
 /compiled/
+.env
+.env.local
+# Generated at build time from .env (PRIMO_DEFAULT_TRUSTED_SITES).
+/platform/mv3/extension/js/primo-defaults.js

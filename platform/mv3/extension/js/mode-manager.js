@@ -19,6 +19,15 @@
     Home: https://github.com/gorhill/uBlock
 */
 
+/*
+    Modified by Primo Browser, 2026:
+    - Imports `primoDefaultTrustedSites` from ./primo-defaults.js
+    - Seeds those hostnames into `defaultFilteringModes.none` so the
+      extension is disabled by default for them on first install.
+    See ./primo-defaults.js (auto-generated from .env / .env.local at
+    build time by tools/primo-prebuild.mjs).
+*/
+
 import {
     broadcastMessage,
     hostnamesFromMatches,
@@ -40,6 +49,7 @@ import {
 import { adminReadEx } from './admin.js';
 import { filteringModesToDNR } from './ruleset-manager.js';
 import { hasBroadHostPermissions } from './ext-utils.js';
+import { primoDefaultTrustedSites } from './primo-defaults.js';
 
 
 /******************************************************************************/
@@ -55,7 +65,7 @@ export const  MODE_OPTIMAL = 2;
 export const MODE_COMPLETE = 3;
 
 export const defaultFilteringModes = {
-    none: [],
+    none: [ ...primoDefaultTrustedSites ],
     basic: [],
     optimal: [ 'all-urls' ],
     complete: [],

@@ -27,6 +27,7 @@
     "@eslint/json": "^0.13.1",
     "eslint": "^9.34.0",
     "eslint-formatter-compact": "^8.40.0",
-    "globals": "^15.14.0"
+    "globals": "^15.14.0",
+    "javascript-obfuscator": "^4.1.1"
   }
 }

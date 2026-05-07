@@ -23,7 +23,15 @@ case $1 in
 	--clean) cleanBuild; exit 0;;
 esac
 
+primoPrebuild() {
+  # Generates platform/mv3/extension/js/primo-defaults.js from .env.
+  # The output file is gitignored; the env var is the source of truth.
+  printf "${bold}${CYA}\n Primo prebuild (env -> primo-defaults.js)... \n${c0}"
+  try node ${HERE}/tools/primo-prebuild.mjs
+}
+
 prepareBuild() {
+  primoPrebuild
   printf "${bold}${YEL}\n Cleaning Build... \n${c0}"
   ${HERE}/tools/make-clean.sh
   printf "${bold}${GRE}\n Downloading Lists... \n${c0}"
