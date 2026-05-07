@@ -24,9 +24,9 @@ case $1 in
 esac
 
 primoPrebuild() {
-  # Generates platform/mv3/extension/js/primo-defaults.js from .env.
-  # The output file is gitignored; the env var is the source of truth.
-  printf "${bold}${CYA}\n Primo prebuild (env -> primo-defaults.js)... \n${c0}"
+  # Generates platform/mv3/extension/js/primo-defaults.js from
+  # primo-defaults.json. Both the JSON and the generated JS are gitignored.
+  printf "${bold}${CYA}\n Primo prebuild (primo-defaults.json -> primo-defaults.js)... \n${c0}"
   try node ${HERE}/tools/primo-prebuild.mjs
 }
 

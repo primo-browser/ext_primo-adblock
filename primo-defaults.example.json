@@ -1,0 +1,27 @@
+{
+  "_doc": [
+    "Copy to primo-defaults.json (gitignored) and edit. Read at build time by",
+    "tools/primo-prebuild.mjs and baked into platform/mv3/extension/js/primo-defaults.js.",
+    "",
+    "globalDefault: filtering level 0..3 applied to every site by default,",
+    "  unless the user toggles it.",
+    "    0 = no filtering (extension effectively off everywhere)",
+    "    1 = basic     (network filtering only)",
+    "    2 = optimal   (network + cosmetic for sites with broad host perms)",
+    "    3 = complete  (network + cosmetic + generic cosmetic)",
+    "",
+    "sites[]: per-site overrides. `hostname` may be a bare host or a full URL",
+    "  (protocol/path are stripped). Subdomains inherit unless they have their",
+    "  own entry. `level` is 0..3 (same scale as globalDefault). Each entry may",
+    "  carry an optional `comment` field — ignored by the build.",
+    "",
+    "Update semantics: on each install/update, our defaults are seeded into",
+    "user storage only where the user hasn't diverged from the previously-",
+    "seeded value. Sites removed from this list revert to globalDefault for",
+    "users who hadn't manually changed them."
+  ],
+  "globalDefault": 0,
+  "sites": [
+    { "hostname": "example.com", "level": 2, "comment": "explanation here" }
+  ]
+}

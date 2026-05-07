@@ -9,5 +9,7 @@ node_modules/
 /compiled/
 .env
 .env.local
-# Generated at build time from .env (PRIMO_DEFAULT_TRUSTED_SITES).
+# Primo: per-deployment whitelist with levels. See primo-defaults.example.json.
+/primo-defaults.json
+# Generated at build time from primo-defaults.json by tools/primo-prebuild.mjs.
 /platform/mv3/extension/js/primo-defaults.js
